@@ -5,6 +5,7 @@ __Lite Version__
 1. (In Development) Most common words appearing in a specified category of plain text (i.e. cases categorized with an official category code, containing the names of specific officers/specific police unit, or other identifying information)
 2. (In Development) Running most common words from a specified context to see if they appear in any other officers' cases, grouping those officers, and running the program again with the most common words excluded - to identify more identifying words. 
 <br>
+
 __Complicated Version__ 
 1. (In Development) Running a TensorFlow feedforward neural network on the raw text to identify any hidden features that might not have been available by hard-coding. 
 
@@ -21,6 +22,7 @@ __Lite Version__ <br>
 - [matplotlib](https://matplotlib.org/)
 - [numpy](https://docs.scipy.org/doc/)
 <br>
+
 __Complicated Version__ <br>
 - tensorflow
 - pandas
