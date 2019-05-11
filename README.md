@@ -1,11 +1,12 @@
 # complaintDocumentREEs
 
-Complaint Document REEs is a python-based statistical language model that takes in a corpus of semi-divided plain text (i.e. contained in different CSV tuples/rows), organizes them according to specified criteria, and outputs several important pieces of information:
-__Lite Version__ <br>
-1. Most common words appearing in a specified category of plain text (i.e. cases categorized with an official category code, containing the names of specific officers/specific police unit, or other identifying information)
-2. Running most common words from a specified context to see if they appear in any other officers' cases, grouping those officers, and running the program again with the most common words excluded - to identify more 
-__Complicated Version__ <br>
-1. 
+Complaint Document REEs is a python-based statistical language model that takes in a corpus of semi-divided plain text (i.e. contained in different CSV tuples/rows), organizes them according to specified criteria, and outputs several important pieces of information: <br>
+__Lite Version__ 
+1. (In Development) Most common words appearing in a specified category of plain text (i.e. cases categorized with an official category code, containing the names of specific officers/specific police unit, or other identifying information)
+2. (In Development) Running most common words from a specified context to see if they appear in any other officers' cases, grouping those officers, and running the program again with the most common words excluded - to identify more identifying words. 
+<br>
+__Complicated Version__ 
+1. (In Development) Running a TensorFlow feedforward neural network on the raw text to identify any hidden features that might not have been available by hard-coding. 
 
 ### Required Packages
   For those new to Python, these can be downloaded using the following Linux command: ```bash pip install your_program_here``` after you install [Pip](https://pip.pypa.io/en/stable/). 
@@ -19,6 +20,7 @@ __Lite Version__ <br>
 - sys
 - [matplotlib](https://matplotlib.org/)
 - [numpy](https://docs.scipy.org/doc/)
+<br>
 __Complicated Version__ <br>
 - tensorflow
 - pandas
@@ -26,8 +28,8 @@ __Complicated Version__ <br>
 ## Goals
 - The goal of this program is to identify contexts that might not readily be apparent in certain groupings. One example is sexual violence/assault narratives that might be contained within a report. Each of these reports is categorized based on the nature of the complaint, but might contain additional problems - such as racial bias or paperwork issues, that might cause the report to be labeled under those problems rather than sexual violence/assault. This one-dimensional classification is problematic for researchers looking to evaluate metrics on these issues. Ideally, the first iteration of this program will be used to identify a broad swath of keywords and phrases that we can run on our reports collection and add additional dimensionality to the classification system. 
 
-## What this Repo Contains:
-(Anything in italics can be substituted for your own files for your own use) 
+## What this Repo Contains: 
+(Anything in italics can be substituted for your own files for your own use)<br>
 - *masterFile*.csv = a Master CSV that contains the raw text and its associated codes that the program takes as an input
 - preprocessing.py = a python file that organizes the raw text and associated codes into a dictionary that can be analyzed by the Relation Extraction model. 
 - mostCommonWords.py = a python file that iterates over the raw text groupings and finds the most common words
