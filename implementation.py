@@ -2,10 +2,15 @@ import csv
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+from spellchecker import *
+
+import pandas
+
 
 import string
 import operator
 import re
+
 
 
 def main():
@@ -19,8 +24,6 @@ def read_input_file(filename):
         data = [row for row in csv.reader(f)]
         workable_data = data[1][4]
         # print(workable_data)
-
-
     # gets rid of any words less than 4 characters
     shortword = re.compile(r'\W*\b\w{1,3}\b')
     workable_data = shortword.sub('', workable_data)
