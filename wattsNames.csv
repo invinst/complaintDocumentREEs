@@ -1,0 +1,46 @@
+﻿Id,Label,Race,Gender,Current Status,Rank,Age,Watts Degree,modularity_class,Degree,Weighted Degree,clustering,triangles,,,,,,Automated List
+Brian Bolton,2334,WHITE,MALE,1,POLICE OFFICER,42,0,387,20,42,0.594737,113,,,,,,John Garrido
+Miguel Cabrales,3564,HISPANIC,MALE,1,POLICE OFFICER,55,0,387,23,24,0.426877,108,,,,,,Richard Aguinaga
+Mathew Cadman,3584,WHITE,MALE,1,POLICE OFFICER,43,0,387,11,16,0.218182,12,,,,,,Robert Gonzalez
+Robert Gonzalez,10361,HISPANIC,MALE,1,POLICE OFFICER,42,0,387,31,58,0.290323,135,,,,,,Juan Rivera
+Alvin Jones,13777,BLACK,MALE,1,SERGEANT OF POLICE,49,0,387,34,71,0.276292,155,,,,,,James Spratte
+Manuel Leano,15883,ASIAN/PACIFIC ISLANDER,MALE,1,POLICE OFFICER,47,0,387,18,39,0.718954,110,,,,,,Philip Cline
+Lamonica Lewis,16181,BLACK,FEMALE,1,POLICE OFFICER,47,0,387,14,19,0.230769,21,,,,,,Patrick Boyle
+Kallatt Mohammed,19331,BLACK,MALE,0,POLICE OFFICER,52,0,387,24,49,0.471014,130,,,,,,Henry Thomas
+Douglas Nichols,20481,WHITE,MALE,1,POLICE OFFICER,39,0,387,23,49,0.454545,115,,,,,,Andrew Schoeff
+Calvin Ridgell,23933,BLACK,MALE,1,POLICE OFFICER,52,0,387,1,1,0,0,,,,,,Lamonica Lewis
+Elsworth Smith,26902,BLACK,MALE,1,POLICE OFFICER,49,0,387,29,50,0.302956,123,,,,,,John Hamilton
+Michael Spaargaren,27101,WHITE,MALE,1,POLICE OFFICER,48,0,387,19,26,0.140351,24,,,,,,Debra Kirby
+Gerome Summers,27871,BLACK,MALE,1,POLICE OFFICER,47,0,387,4,4,0.333333,2,,,,,,Brian Bolton
+Ronald Watts,30215,BLACK,MALE,0,SERGEANT OF POLICE,53,0,387,33,56,0.265152,140,,,,,,Brian Hunt
+Kenneth Young,31456,BLACK,MALE,1,POLICE OFFICER,50,0,387,22,27,0.545455,126,,,,,,John Rodriguez
+Derek Cross,5758,BLACK,MALE,1,POLICE OFFICER,46,1,387,14,15,0.230769,21,,,,,,Gerome Summers
+Armand Heard,11822,BLACK,MALE,1,POLICE OFFICER,55,1,387,7,8,0.333333,7,,,,,,Nataleen Coleman
+Debra Kirby,14717,WHITE,FEMALE,0,CHIEF,54,1,387,20,20,0.573684,109,,,,,,Raymond Piwnicki
+Lawrence Lowrey,16660,BLACK,MALE,1,PO/FIELD TRNING OFF,55,1,387,10,10,0.2,9,,,,,,Ronald Watts
+Kenneth Molesky,19347,WHITE,MALE,1,POLICE OFFICER,41,1,387,15,19,0.161905,17,,,,,,Karen Rowan
+Karen Rowan,24796,WHITE,FEMALE,0,LIEUTENANT OF POLICE,61,1,387,17,17,0.779412,106,,,,,,William Carter
+David Soltis,27003,WHITE,MALE,0,POLICE OFFICER,58,1,387,20,20,0.584211,111,,,,,,Kenneth Young
+Herman Thomas,28475,BLACK,MALE,1,POLICE OFFICER,51,1,387,7,8,0.714286,15,,,,,,Timothy Gerich
+Roderick Watson,30199,BLACK,MALE,1,SERGEANT OF POLICE,49,1,387,27,28,0.430199,151,,,,,,Thomas Donegan
+Carolyn Young,31418,BLACK,FEMALE,1,PO AS DETECTIVE,32,1,387,7,7,0.285714,6,,,,,,Nathan Silas
+Arron Davis,6370,BLACK,MALE,0,POLICE OFFICER,54,2,387,4,5,0.166667,1,,,,,,Kallatt Mohammed
+Lamont Gipson,10036,BLACK,MALE,1,POLICE OFFICER,46,2,387,2,2,0,0,,,,,,Michael Spaargaren
+,,,,,,,,,,,,,,,,,,Elsworth Smith
+John Rodriguez,24399,HISPANIC,MALE,1,POLICE OFFICER,41,0,396,7,8,0.095238,2,,,,,,Alvin Staggers
+,,,,,,,,,,,,,,,,,,Haven Matthews
+Darryl Edwards,7780,BLACK,MALE,1,POLICE OFFICER,50,0,344,35,38,0.263866,157,,,,,,Darryl Edwards
+,,,,,,,,,,,,,,,,,,Isaac Lee
+,,,,,,,,,,,,,,,,,,Alvin Jones
+,,,,,,,,,,,,,,,,,,Mathew Cadman
+,,,,,,,,,,,,,,,,,,Jerome Finnigan
+,,,,,,,,,,,,,,,,,,Daniel Echeverria
+,,,,,,,,,,,,,,,,,,Ernest Turner
+,,,,,,,,,,,,,,,,,,John Dowd
+,,,,,,,,,,,,,,,,,,Manuel Leano
+,,,,,,,,,,,,,,,,,,Sean Brandon
+,,,,,,,,,,,,,,,,,,Miguel Cabrales
+,,,,,,,,,,,,,,,,,,Calvin Ridgell
+,,,,,,,,,,,,,,,,,,Don Hoard
+,,,,,,,,,,,,,,,,,,Brian Blackman
+,,,,,,,,,,,,,,,,,,Douglas Nichols
